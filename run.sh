@@ -8,3 +8,5 @@ sudo apt-get update -y
 
 sudo apt install myst -y
 
+sudo ufw disable
+
